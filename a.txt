@@ -5,13 +5,4 @@ Atualização
 de Arquivo  e fazendo 
 uma nova edição  e depois outra ediçao 
 
-=======
-Testando 
-Uma
-Atualização
-de Arquivo  e fazendo 
-uma nova edição  e depois outra ediçao 
 
-
-Enviando a funcionalidade B 
->>>>>>> 1298639b2ff8c3ccf0f5fba340c741f40de431a7
